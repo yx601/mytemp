@@ -1,0 +1,16 @@
+{
+        "server":"::",
+        "local_port":1080,
+        "port_password":
+        {
+                "12225":"yangxi123",
+                "1226":"panyy123",
+                "1227":"Jackyang123",
+                "1228":"tq123456"
+        },
+        "timeout":300,
+        "method":"chacha20-ietf-poly1305",
+        "fast_open":true,
+        "workers":10
+}
+
